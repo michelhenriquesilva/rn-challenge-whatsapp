@@ -11,3 +11,16 @@ Uma boa prática que aprendi foi criar componentes reutilizáveis para todas as 
 ### Funcionalidades do dia-a-dia
 Fazia parte também do challege me colocar em uma cituação onde precisasse desenvolver funcionalidades mais próximas do que realmente precisamos criar no dia-a-dia. Como Listas, Navegação por meio de tabs, uso de camera, etc.
 
+### Telas
+
+- Tela splashscreen
+- Ícone do aplicativo
+- Tela principal com navegação em abas (tabs)
+- Conversas (somente visual)
+- Camera
+  - Capturar fotos
+  - Mudar orientação da camera (front/back)
+  - Ativar/Desativar Flash
+  - Recuperar lista de fotos do device
+- Status (somente visual)
+- Chamadas (somente visual)
