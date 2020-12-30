@@ -27,5 +27,11 @@ Fazia parte também do challege me colocar em uma cituação onde precisasse des
 
 
 ## Algumas capturas de telas
+
+<p align="center">
+  <img src="/screeshots/76e06dab-3bcb-4d26-89bf-2c9f0e3c7e60.jfif" width="350" title="hover text">
+  <img src="/screeshots/1592a52c-f5f7-4841-8b08-d2a09c36c31e.jfif" width="350" alt="accessibility text">
+</p>
+
 ![alt text](/screeshots/76e06dab-3bcb-4d26-89bf-2c9f0e3c7e60.jfif)
 ![alt text](/screeshots/1592a52c-f5f7-4841-8b08-d2a09c36c31e.jfif)
