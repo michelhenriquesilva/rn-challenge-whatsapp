@@ -1,6 +1,6 @@
-# UI Clone - Whastapp com React Native!
+# UI Clone - Whatsapp com React Native!
 
-Fala pessoal tudo jóia?! Tenho estudado bastante sobre ReactJS e React Native, e tenho estado muito feliz com o resultado dos meus estudos! Por isso quero deixar aqui para quem quiser clonar e se divertir também uma reprodução bem básica de algumas telas da interface do Whastapp.
+Fala pessoal tudo jóia?! Tenho estudado bastante sobre ReactJS e React Native, e tenho estado muito feliz com o resultado dos meus estudos! Por isso quero deixar aqui para quem quiser clonar e se divertir também uma reprodução bem básica de algumas telas da interface do Whatsapp.
 Eu não construi todas as telas, pois tive dificuldade em reproduzir alguns conceitos. Mas vou deixar registrado aqui quais telas foram criadas e quais dificuldades e acertos no processo. Vlw!
 
 ## Objetivo
