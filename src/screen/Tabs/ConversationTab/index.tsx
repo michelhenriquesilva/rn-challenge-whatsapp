@@ -33,7 +33,7 @@ export default function ConversationTab(){
             avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wEcxp2kEGYlB0bBCd9S6FGxdIOoRuQZZxA&usqp=CAU',
             name: 'NeverStopLearning',
             last_time: '16:58',
-            last_message: 'Ney: Foto',
+            last_message: 'André: Foto',
             total_messages: 9
         },
         {
@@ -45,40 +45,24 @@ export default function ConversationTab(){
             total_messages: 42
         },
         {
-            id: '4',
-            avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wEcxp2kEGYlB0bBCd9S6FGxdIOoRuQZZxA&usqp=CAU',
-            name: 'Lanches da tarde - KBank',
-            last_time: '16:27',
-            last_message: '+55 77 9900-7903: Figurinha',
-            total_messages: 1
-        },
-        {
             id: '5',
             avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wEcxp2kEGYlB0bBCd9S6FGxdIOoRuQZZxA&usqp=CAU',
-            name: 'Adriani Kbank',
+            name: 'Adriana Mattos',
             last_time: '16:22',
             last_message: 'Foto',
             total_messages: 0
         },{
             id: '6',
             avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wEcxp2kEGYlB0bBCd9S6FGxdIOoRuQZZxA&usqp=CAU',
-            name: 'Kbank Tecnologia',
+            name: 'Grupo Tecnologia',
             last_time: '16:58',
             last_message: 'No momento o servidor está bem mais estável',
             total_messages: 0
         },
         {
-            id: '7',
-            avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wEcxp2kEGYlB0bBCd9S6FGxdIOoRuQZZxA&usqp=CAU',
-            name: 'Binca RJ Grupo South',
-            last_time: '16:58',
-            last_message: 'justamente antes do natal',
-            total_messages: 9
-        },
-        {
             id: '8',
             avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wEcxp2kEGYlB0bBCd9S6FGxdIOoRuQZZxA&usqp=CAU',
-            name: 'Paulo Assis Sunart',
+            name: 'Paulo Assis',
             last_time: '16:44',
             last_message: 'certo, tranquilo.',
             total_messages: 2
@@ -86,18 +70,10 @@ export default function ConversationTab(){
         {
             id: '9',
             avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wEcxp2kEGYlB0bBCd9S6FGxdIOoRuQZZxA&usqp=CAU',
-            name: 'Mateus Kbank',
+            name: 'Mateus',
             last_time: '16:27',
             last_message: 'Bom dia 🎄🌧️🌧️',
             total_messages: 1
-        },
-        {
-            id: '10',
-            avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wEcxp2kEGYlB0bBCd9S6FGxdIOoRuQZZxA&usqp=CAU',
-            name: 'Kbank Tecnologia',
-            last_time: '16:22',
-            last_message: 'Bom dia 🎄🌧️🌧️',
-            total_messages: 0
         }
     ];
 
